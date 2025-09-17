@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou William Bonetti  
+# 👋 Olá, eu sou Willian Bonetti  
 
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.  
 🌱 Atualmente estudando **JavaScript, HTML, CSS e Java**.  
@@ -13,7 +13,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
 
 ---
 
