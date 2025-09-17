@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Willian Bonetti  
 
-💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.  
+💻 Desenvolvedor em aprendizado.  
 🌱 Atualmente estudando **JavaScript, HTML, CSS e Java**.  
 
 ---
 
 ## 🚀 Tecnologias que uso/estudo:
 - HTML, CSS, JavaScript 
-- Node.js, Java
+- Java
 - Git & GitHub  
 
 ---
