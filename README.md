@@ -13,7 +13,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianbonettizx&show_icons=true&theme=radical)
 
 ---
 
