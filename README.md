@@ -18,7 +18,6 @@
 ---
 
 ## 📫 Como me encontrar:
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)
 - 📧 Email: william_bonetti@estudante.sesisenai.org.br
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
