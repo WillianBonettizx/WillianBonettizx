@@ -2,7 +2,6 @@
 
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.  
 🌱 Atualmente estudando **JavaScript, HTML, CSS e Python**.  
-🎯 Objetivo: me tornar um desenvolvedor full stack.  
 
 ---
 
