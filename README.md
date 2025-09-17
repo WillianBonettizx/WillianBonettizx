@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou William Bonetti  
 
 💻 Desenvolvedor em aprendizado e apaixonado por tecnologia.  
-🌱 Atualmente estudando **JavaScript, HTML, CSS e Python**.  
+🌱 Atualmente estudando **JavaScript, HTML, CSS e Java**.  
 
 ---
 
 ## 🚀 Tecnologias que uso/estudo:
 - HTML, CSS, JavaScript 
-- Python, Node.js, Java
+- Node.js, Java
 - Git & GitHub  
 
 ---
